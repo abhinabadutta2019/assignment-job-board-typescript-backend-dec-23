@@ -25,7 +25,7 @@ app.use(cors(corsOptions));
 
 //
 ///////mongoDB cloud//////////////////
-let uri = `mongodb+srv://${process.env.DB_USERNAME}:${process.env.DB_PASSWORD}@cluster0.te788iv.mongodb.net/assign-job-board-typesc-nov-23?retryWrites=true&w=majority`;
+let uri = `mongodb+srv://${process.env.DB_USERNAME}:${process.env.DB_PASSWORD}@cluster0.te788iv.mongodb.net/assign-job-board-typesc-dec-23?retryWrites=true&w=majority`;
 //
 async function connectToMongoDB() {
   try {

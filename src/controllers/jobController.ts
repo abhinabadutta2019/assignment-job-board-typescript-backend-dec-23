@@ -15,6 +15,9 @@ const getAllJobs = async (req: Request, res: Response) => {
       .populate("createdBy", "username email")
       .sort({ createdAt: -1 }); // Replace 'username' and 'email' with the fields you want to include
 
+    //
+    // console.log(jobs, "jobs");
+
     res.status(200).json(jobs);
   } catch (error) {
     res.status(500).json(error);
