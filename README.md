@@ -66,31 +66,31 @@ The Job Board Web Application is a platform that connects job creators and appli
 
 ### Login page
 
-![image](https://github.com/abhinabadutta2019/assignment-job-board-react-frontend-07-nov-23/assets/118996650/005279f3-36cf-4dca-8b95-21b4eb711269)
+![image](https://github.com/abhinabadutta2019/assignment-job-board-typescript-backend-dec-23/assets/118996650/42aa8edb-2a7f-481d-b42d-4ad123e9b550)
 
 ### Registration page
 
-![image](https://github.com/abhinabadutta2019/assignment-job-board-react-frontend-07-nov-23/assets/118996650/facb3b3e-9217-4e5d-b062-72cc718c8417)
+![image](https://github.com/abhinabadutta2019/assignment-job-board-typescript-backend-dec-23/assets/118996650/bc9bbaa7-79eb-42f5-926b-7ad0300a37b1)
 
 ### Home page (For job poster)
 
-![image](https://github.com/abhinabadutta2019/assignment-job-board-react-frontend-07-nov-23/assets/118996650/6d460856-76a7-437d-ae10-f4fe42244fb3)
+![image](https://github.com/abhinabadutta2019/assignment-job-board-typescript-backend-dec-23/assets/118996650/e0ba4246-5f1f-46ea-b4b9-5e67bb87e6b3)
 
 ### Home page (For applicants)
 
-![image](https://github.com/abhinabadutta2019/assignment-job-board-react-frontend-07-nov-23/assets/118996650/1ce7b69d-13c5-4ce6-bec6-eee14395973f)
+![image](https://github.com/abhinabadutta2019/assignment-job-board-typescript-backend-dec-23/assets/118996650/0497fa69-210f-47ed-b472-489bf1ddb806)
 
 ### Yourapplied-jobs page (For Applicants)
 
-![image](https://github.com/abhinabadutta2019/assignment-job-board-react-frontend-07-nov-23/assets/118996650/3b7529e0-8ecf-448b-8380-d89d73438b85)
+![image](https://github.com/abhinabadutta2019/assignment-job-board-typescript-backend-dec-23/assets/118996650/b1fb3d93-141f-4ed0-a19f-6b5438fdd7de)
 
 ### Your-Created-Jobs page (For job poster)
 
-![image](https://github.com/abhinabadutta2019/assignment-job-board-react-frontend-07-nov-23/assets/118996650/9a94a49a-e592-40bf-bebf-d1eb84730794)
+![image](https://github.com/abhinabadutta2019/assignment-job-board-typescript-backend-dec-23/assets/118996650/731886b1-b2e1-47fa-9956-21cc68fac74d)
 
 ### Applicants-details page (For job poster)
 
-![image](https://github.com/abhinabadutta2019/assignment-job-board-react-frontend-07-nov-23/assets/118996650/5cd68cd0-8aa3-4d68-b6cd-b29d24fdada9)
+![image](https://github.com/abhinabadutta2019/assignment-job-board-typescript-backend-dec-23/assets/118996650/f0e54558-43ab-45ee-aef9-099c55bda14d)
 
 ## Conclusion
 
